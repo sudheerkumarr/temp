@@ -9,3 +9,13 @@
 4. Write a MongoDB query to display all the restaurants which are in the borough Bronx
 
 5. Write a MongoDB query to display the first 5 restaurant which are in the borough Bronx.
+
+6. Write a MongoDB query to find the restaurants that achieved a score, more than 80 but less than 100
+
+7. Write a MongoDB query to find the restaurants who achieved a score more than 90.
+
+8. Write a MongoDB query to find the restaurants which locate in latitude value less than -95.754168.
+
+9.Write a MongoDB query to find the restaurants that do not prepare any cuisine of 'American' and their grade score more than 70 and latitude less than -65.754168
+
+10. Write a MongoDB query to find the restaurant Id, name, borough and cuisine for those restaurants which contain 'Wil' as first three letters for its name
